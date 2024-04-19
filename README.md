@@ -10,5 +10,5 @@ you just need dos-box and masm615 to operate this game.
 4. give path of masm615/BIN to DOS-BOX
 5. run
 # Team Members
-- @nouman-x-ahmad
-- @shaffinX
+- [nouman-x-ahmad](https://github.com/nouman-x-ahmad)
+- [shaffinX](https://github.com/shaffinX?tab=overview&from=2024-04-01&to=2024-04-19)
